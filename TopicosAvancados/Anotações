@@ -1,1 +1,7 @@
-Agora deuUUUUUU
+OS 3 PRINCIPIOS DO MÉTODO HASH
+
+1 - Se o HASH chamar o mesmo elemento inumeras vezes, ele precisa retornar SEMPRE o mesmo valor
+
+2 -  Se dois objetos forem iguais de acordo com o EQUALS (verdadeiro), é necessário retornar o mesmo inteiro
+
+3 - Se dois objetos forem diferentes ele ocupa o próximo lugar
